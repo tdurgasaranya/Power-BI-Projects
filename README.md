@@ -23,7 +23,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
   - Drill-through by region, product, and sales rep.
 - **Tools**: Power BI, SQL Server
 
-📁 [`/Sales_Performance_Dashboard`](./Sales_Performance_Dashboard)
+📁 [`/Sales_Performance_Dashboard`](./Product_Sales_Report.pbix)
 
 ---
 
