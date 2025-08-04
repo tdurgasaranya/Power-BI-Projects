@@ -6,14 +6,9 @@ Welcome to my Power BI project showcase! This repository highlights key projects
 
 ## 🧠 Skills Highlighted
 
-- Power BI Desktop & Power BI Service
-- Data Modeling (Star Schema, Relationships)
-- DAX Measures & Calculated Columns
-- KPI & Metric Design
-- ETL & Data Preparation
-- Row-Level Security (RLS)
-- SQL for Data Extraction
-- Python for preprocessing (optional projects)
+- Power BI Desktop & Power BI Service  - Data Modeling (Star Schema, Relationships)
+- DAX Measures & Calculated Columns   - KPI & Metric Design
+- ETL & Data Preparation  - Row-Level Security (RLS)  - SQL for Data Extraction
 
 ---
 
@@ -32,40 +27,38 @@ Welcome to my Power BI project showcase! This repository highlights key projects
 
 ---
 
-### 2. **Supply Chain Metrics Report**
+### 2. **Retail Sales CRM Report**
 - **Objective**: Visualize lead time, order fulfillment, and inventory turnover KPIs.
 - **Key Features**:
   - Time-based DAX metrics (`Moving Average`, `Lead Time Variation`, `On-Time Delivery %`)
-  - Multi-source data integration: Excel + SQL
+  - Multi-source data integration: Power BI  + Excel cleanup + SQL direct query
   - Bookmark navigation & custom tooltips for storytelling
 
-📁 [`/Supply_Chain_KPI_Report`](./Supply_Chain_KPI_Report)
+📁 [`/Retail Sales CRM Report`](./Supply_Chain_KPI_Report)
 
 ---
 
-### 3. **Executive Finance Dashboard**
-- **Objective**: Enable financial executives to monitor revenue, OPEX, and budget variance.
+### 3. **Finance Dashboard**
+- **Objective**: Enable financial executives to monitor Revenue, Profit, and budget variance.
 - **Key Features**:
   - DAX for cumulative totals, YoY variance, and forecast accuracy.
-  - KPI cards: `Net Profit Margin`, `OPEX to Revenue`, `Budget Variance %`
+  - KPI cards: `Net Profit Margin`, `Revenue`, `Variance %`
   - Usage of slicers, drilldowns, and data categories
 
-📁 [`/Finance_Executive_Dashboard`](./Finance_Executive_Dashboard)
+📁 [`/Finance Dashboard`](./Finance_Executive_Dashboard)
 
 ---
 
 ## 📌 How to View Reports
-1. Download `.pbix` files from respective folders.
-2. Open with Power BI Desktop (latest version recommended).
-3. If required, update data sources to your local paths or dummy files.
-
+   - Download `.pbix` files from respective folders
+   - Open with Power BI Desktop (latest version recommended)
 ---
 
 ## 💼 About Me
 
 I’m a data analytics professional with 7+ years of experience in Business Intelligence, specializing in Power BI, SQL, Python, and ETL pipelines. I design data solutions that align with business goals and empower stakeholders to make data-driven decisions.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-profile) or view my full portfolio at [your-portfolio-link.com](https://your-portfolio-link.com)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/durga-saranya) or view my full portfolio at [your-portfolio-link.com](https://tdurgasaranya.github.io/Durga-Saranya/)
 
 ---
 
