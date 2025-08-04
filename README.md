@@ -23,7 +23,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
   - Drill-through by region, product, and sales rep.
 - **Tools**: Power BI, SQL Server
 
-📁 [`/Sales_Performance_Dashboard`](./Product_Sales_Report.pbix)
+📁 [Sales_Performance_Dashboard](/https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/Product%20Sales%20Report.pbix)
 
 ---
 
@@ -34,7 +34,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
   - Multi-source data integration: Power BI  + Excel cleanup + SQL direct query
   - Bookmark navigation & custom tooltips for storytelling
 
-📁 [`/Retail Sales CRM Report`](./Supply_Chain_KPI_Report)
+📁 [Retail Sales CRM Report]()
 
 ---
 
@@ -45,7 +45,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
   - KPI cards: `Net Profit Margin`, `Revenue`, `Variance %`
   - Usage of slicers, drilldowns, and data categories
 
-📁 [`/Finance Dashboard`](./Finance_Executive_Dashboard)
+📁 [Finance Dashboard]()
 
 ---
 
@@ -58,7 +58,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
 
 I’m a data analytics professional with 7+ years of experience in Business Intelligence, specializing in Power BI, SQL, Python, and ETL pipelines. I design data solutions that align with business goals and empower stakeholders to make data-driven decisions.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/durga-saranya) or view my full portfolio at [your-portfolio-link.com](https://tdurgasaranya.github.io/Durga-Saranya/)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/durga-saranya) or view my full portfolio at [portfolio-link](https://tdurgasaranya.github.io/Durga-Saranya/)
 
 ---
 
