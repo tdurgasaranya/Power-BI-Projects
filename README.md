@@ -33,8 +33,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
   - Multi-source data integration: Power BI  + Excel cleanup + SQL direct query
   - Bookmark navigation & custom tooltips for storytelling
 
-📁 <a href="https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/Product%20Sales%20Report.pbix" target="_blank">Product Sales Report.pbix</a>
-
+📁 [CRM Sales Report.pbix](https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/CRM%20Sales%20Report.pbix)
 ---
 
 ### 3. **Finance Dashboard**
@@ -44,8 +43,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
   - KPI cards: `Net Profit Margin`, `Revenue`, `Variance %`
   - Usage of slicers, drilldowns, and data categories
 
-📁 <a href=https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/KPI%20Cards.pbix" target="_blank">KPI Cards.pbix</a>   
-
+📁 [KPI Cards.pbix](https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/KPI%20Cards.pbix)
 ---
 
 ## 📌 How to View Reports
