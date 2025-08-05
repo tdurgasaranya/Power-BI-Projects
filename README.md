@@ -23,8 +23,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
   - Drill-through by region, product, and sales rep.
 - **Tools**: Power BI, SQL Server
 
-📁 [Sales_Performance_Dashboard](/https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/Product%20Sales%20Report.pbix)
-
+📁 <a href="https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/CRM%20Sales%20Report.pbix" target="_blank">CRM Sales Report.pbix</a>
 ---
 
 ### 2. **Retail Sales CRM Report**
