@@ -23,7 +23,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
   - Drill-through by region, product, and sales rep.
 - **Tools**: Power BI, SQL Server
 
-📁 <a href="https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/CRM%20Sales%20Report.pbix" target="_blank">CRM Sales Report.pbix</a>
+📁 <a href="https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/Product%20Sales%20Report.pbix" target="_blank">Product Sales Report.pbix</a>
 ---
 
 ### 2. **Retail Sales CRM Report**
@@ -33,7 +33,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
   - Multi-source data integration: Power BI  + Excel cleanup + SQL direct query
   - Bookmark navigation & custom tooltips for storytelling
 
-📁 [Retail Sales CRM Report]()
+📁 <a href="https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/CRM%20Sales%20Report.pbix" target="_blank">CRM Sales Report.pbix</a>
 
 ---
 
@@ -44,7 +44,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
   - KPI cards: `Net Profit Margin`, `Revenue`, `Variance %`
   - Usage of slicers, drilldowns, and data categories
 
-📁 [Finance Dashboard]()
+📁 <a href=https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/KPI%20Cards.pbix" target="_blank">KPI Cards.pbix</a>   
 
 ---
 
