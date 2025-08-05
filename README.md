@@ -33,7 +33,7 @@ Welcome to my Power BI project showcase! This repository highlights key projects
   - Multi-source data integration: Power BI  + Excel cleanup + SQL direct query
   - Bookmark navigation & custom tooltips for storytelling
 
-📁 <a href="https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/CRM%20Sales%20Report.pbix" target="_blank">CRM Sales Report.pbix</a>
+📁 <a href="https://github.com/tdurgasaranya/Power-BI-Projects/blob/main/Product%20Sales%20Report.pbix" target="_blank">Product Sales Report.pbix</a>
 
 ---
 
